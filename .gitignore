@@ -1,6 +1,0 @@
-backend/
-web app/.terraform/
-web app/no_vars/
-web app/.terraform.lock.hcl
-.git/
-.gitignore
